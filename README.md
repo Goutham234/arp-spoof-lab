@@ -46,7 +46,7 @@ ARP operates on the local network segment; it does not resolve devices across ro
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/arp-spoof-lab.git
+git clone https://github.com/Goutham234/arp-spoof-lab.git
 cd arp-spoof-lab
 
 python3 -m venv .venv
@@ -55,7 +55,7 @@ source .venv/bin/activate
 python -m pip install -r requirements.txt
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
+
 
 ## Usage
 
