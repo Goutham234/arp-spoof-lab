@@ -1,0 +1,14 @@
+# Python-generated cache files
+__pycache__/
+*.pyc
+
+# Local virtual environment
+.venv/
+
+# Local secrets or configuration
+.env
+
+# Logs and network captures
+*.log
+*.pcap
+*.pcapng
